@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samil</h1>
-<h3 align="center">I am a CS student aspiring to become a Software engineer</h3>
+<h3 align="center">I am a CS student aspiring to become a Data Science engineer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmonsalado&label=Profile%20views&color=0e75b6&style=flat" alt="salmonsalado" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmonsalado" alt="salmonsalado" /></a> </p>
 
@@ -10,13 +10,12 @@ I like building things across the stack — desktop apps, games, and machine lea
 
 - 🎓 CS @ Rutgers–Newark | Dean's List
 - 🤖 Studying machine learning through the Break Through Tech AI program
-- 🛡️ Studying cybersecurity & working toward CompTIA certs
 - 👩‍💻 Helping run Girls Who Code Newark
 
 <h3 align="left">Currently:</h3>
 
-- 🌱 I’m currently learning **Machine learning and cybersecurity**
-- 👯 I’m looking to collaborate on **cybersecurity projects**
+- 🌱 I’m currently learning **Machine learning**
+- 👯 I’m looking to collaborate on **machine learning projects**
 - 📫 How to reach me **samilantonio809@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
