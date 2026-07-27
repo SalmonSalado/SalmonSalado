@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, my name is Samil
+#### I am a CS student aspiring to become a Software engineer
+![I am a CS student aspiring to become a Software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**SalmonSalado/SalmonSalado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things across the stack: desktop apps, games, and machine learning projects. And I care about making tech more accessible. I help run the Girls Who Code Newark chapter.
 
-Here are some ideas to get you started:
+- 🎓 CS @ Rutgers–Newark | Dean's List
+- 🛡️ Studying cybersecurity & working toward CompTIA certs
+- 👩‍💻 Helping run Girls Who Code Newark
+- 🤖 Studying machine learning through the Break Through Tech AI program
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: PYTHON / C++ / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
