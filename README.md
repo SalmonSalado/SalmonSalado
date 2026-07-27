@@ -11,7 +11,6 @@ I like building things across the stack: desktop apps, games, and machine learni
 
 Skills: PYTHON / C++ / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
